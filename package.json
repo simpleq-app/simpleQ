@@ -1,0 +1,31 @@
+{
+  "name": "simpleq",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Modern Pinterest scheduling solution",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^13.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-config-next": "^13.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpleq-app/simpleQ.git"
+  },
+  "author": "simpleQ Team",
+  "license": "MIT"
+}
